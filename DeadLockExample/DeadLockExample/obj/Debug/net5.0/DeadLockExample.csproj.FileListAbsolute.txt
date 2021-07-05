@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\bin\Debug\net5.0\DeadLockExample.exe
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\bin\Debug\net5.0\DeadLockExample.deps.json
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\bin\Debug\net5.0\DeadLockExample.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\bin\Debug\net5.0\DeadLockExample.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\bin\Debug\net5.0\DeadLockExample.dll
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\bin\Debug\net5.0\ref\DeadLockExample.dll
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\bin\Debug\net5.0\DeadLockExample.pdb
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\DeadLockExample.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\DeadLockExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\DeadLockExample.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\DeadLockExample.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\DeadLockExample.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\DeadLockExample.dll
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\ref\DeadLockExample.dll
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\DeadLockExample.pdb
+C:\Users\MandeepSingh\source\repos\DeadLockExample\DeadLockExample\obj\Debug\net5.0\DeadLockExample.genruntimeconfig.cache

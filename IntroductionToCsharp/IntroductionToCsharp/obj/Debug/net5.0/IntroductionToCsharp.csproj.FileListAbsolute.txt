@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net5.0\IntroductionToCsharp.exe
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net5.0\IntroductionToCsharp.deps.json
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net5.0\IntroductionToCsharp.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net5.0\IntroductionToCsharp.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net5.0\IntroductionToCsharp.dll
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net5.0\ref\IntroductionToCsharp.dll
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\bin\Debug\net5.0\IntroductionToCsharp.pdb
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\IntroductionToCsharp.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\IntroductionToCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\IntroductionToCsharp.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\IntroductionToCsharp.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\IntroductionToCsharp.dll
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\ref\IntroductionToCsharp.dll
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\IntroductionToCsharp.pdb
+C:\Users\MandeepSingh\source\repos\IntroductionToCsharp\IntroductionToCsharp\obj\Debug\net5.0\IntroductionToCsharp.genruntimeconfig.cache

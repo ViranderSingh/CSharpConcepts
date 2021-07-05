@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\bin\Debug\net5.0\Delegate2.exe
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\bin\Debug\net5.0\Delegate2.deps.json
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\bin\Debug\net5.0\Delegate2.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\bin\Debug\net5.0\Delegate2.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\bin\Debug\net5.0\Delegate2.dll
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\bin\Debug\net5.0\ref\Delegate2.dll
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\bin\Debug\net5.0\Delegate2.pdb
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\Delegate2.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\Delegate2.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\Delegate2.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\Delegate2.dll
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\ref\Delegate2.dll
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\Delegate2.pdb
+C:\Users\MandeepSingh\source\repos\Delegate2\Delegate2\obj\Debug\net5.0\Delegate2.genruntimeconfig.cache

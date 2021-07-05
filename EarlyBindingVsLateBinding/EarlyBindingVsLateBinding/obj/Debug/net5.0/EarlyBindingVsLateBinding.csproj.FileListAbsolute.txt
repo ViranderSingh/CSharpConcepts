@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\bin\Debug\net5.0\EarlyBindingVsLateBinding.exe
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\bin\Debug\net5.0\EarlyBindingVsLateBinding.deps.json
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\bin\Debug\net5.0\EarlyBindingVsLateBinding.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\bin\Debug\net5.0\EarlyBindingVsLateBinding.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\bin\Debug\net5.0\EarlyBindingVsLateBinding.dll
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\bin\Debug\net5.0\ref\EarlyBindingVsLateBinding.dll
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\bin\Debug\net5.0\EarlyBindingVsLateBinding.pdb
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\EarlyBindingVsLateBinding.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\EarlyBindingVsLateBinding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\EarlyBindingVsLateBinding.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\EarlyBindingVsLateBinding.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\EarlyBindingVsLateBinding.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\EarlyBindingVsLateBinding.dll
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\ref\EarlyBindingVsLateBinding.dll
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\EarlyBindingVsLateBinding.pdb
+C:\Users\MandeepSingh\source\repos\EarlyBindingVsLateBinding\EarlyBindingVsLateBinding\obj\Debug\net5.0\EarlyBindingVsLateBinding.genruntimeconfig.cache

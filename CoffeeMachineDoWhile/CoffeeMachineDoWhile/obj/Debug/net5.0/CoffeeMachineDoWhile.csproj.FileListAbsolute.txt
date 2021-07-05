@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\CoffeeMachineDoWhile.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\CoffeeMachineDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\CoffeeMachineDoWhile.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\CoffeeMachineDoWhile.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\CoffeeMachineDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\bin\Debug\net5.0\CoffeeMachineDoWhile.exe
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\bin\Debug\net5.0\CoffeeMachineDoWhile.deps.json
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\bin\Debug\net5.0\CoffeeMachineDoWhile.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\bin\Debug\net5.0\CoffeeMachineDoWhile.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\bin\Debug\net5.0\CoffeeMachineDoWhile.dll
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\bin\Debug\net5.0\ref\CoffeeMachineDoWhile.dll
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\bin\Debug\net5.0\CoffeeMachineDoWhile.pdb
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\CoffeeMachineDoWhile.dll
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\ref\CoffeeMachineDoWhile.dll
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\CoffeeMachineDoWhile.pdb
+C:\Users\MandeepSingh\source\repos\CoffeeMachineDoWhile\CoffeeMachineDoWhile\obj\Debug\net5.0\CoffeeMachineDoWhile.genruntimeconfig.cache

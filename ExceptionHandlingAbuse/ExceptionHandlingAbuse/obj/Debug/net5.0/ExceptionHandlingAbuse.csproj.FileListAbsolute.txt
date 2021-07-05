@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net5.0\ExceptionHandlingAbuse.exe
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net5.0\ExceptionHandlingAbuse.deps.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net5.0\ExceptionHandlingAbuse.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net5.0\ExceptionHandlingAbuse.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net5.0\ExceptionHandlingAbuse.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net5.0\ref\ExceptionHandlingAbuse.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net5.0\ExceptionHandlingAbuse.pdb
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ExceptionHandlingAbuse.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ExceptionHandlingAbuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ExceptionHandlingAbuse.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ExceptionHandlingAbuse.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ExceptionHandlingAbuse.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ExceptionHandlingAbuse.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ref\ExceptionHandlingAbuse.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ExceptionHandlingAbuse.pdb
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net5.0\ExceptionHandlingAbuse.genruntimeconfig.cache

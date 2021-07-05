@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\bin\Debug\net5.0\InnerException.exe
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\bin\Debug\net5.0\InnerException.deps.json
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\bin\Debug\net5.0\InnerException.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\bin\Debug\net5.0\InnerException.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\bin\Debug\net5.0\InnerException.dll
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\bin\Debug\net5.0\ref\InnerException.dll
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\bin\Debug\net5.0\InnerException.pdb
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\InnerException.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\InnerException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\InnerException.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\InnerException.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\InnerException.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\InnerException.dll
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\ref\InnerException.dll
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\InnerException.pdb
+C:\Users\MandeepSingh\source\repos\InnerException\InnerException\obj\Debug\net5.0\InnerException.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\MandeepSingh\source\repos\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

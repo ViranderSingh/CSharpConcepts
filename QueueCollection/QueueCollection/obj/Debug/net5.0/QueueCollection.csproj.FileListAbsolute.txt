@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\bin\Debug\net5.0\QueueCollection.exe
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\bin\Debug\net5.0\QueueCollection.deps.json
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\bin\Debug\net5.0\QueueCollection.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\bin\Debug\net5.0\QueueCollection.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\bin\Debug\net5.0\QueueCollection.dll
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\bin\Debug\net5.0\ref\QueueCollection.dll
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\bin\Debug\net5.0\QueueCollection.pdb
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\QueueCollection.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\QueueCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\QueueCollection.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\QueueCollection.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\QueueCollection.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\QueueCollection.dll
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\ref\QueueCollection.dll
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\QueueCollection.pdb
+C:\Users\MandeepSingh\source\repos\QueueCollection\QueueCollection\obj\Debug\net5.0\QueueCollection.genruntimeconfig.cache

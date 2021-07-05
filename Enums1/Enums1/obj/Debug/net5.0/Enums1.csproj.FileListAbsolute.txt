@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\bin\Debug\net5.0\Enums1.exe
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\bin\Debug\net5.0\Enums1.deps.json
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\bin\Debug\net5.0\Enums1.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\bin\Debug\net5.0\Enums1.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\bin\Debug\net5.0\Enums1.dll
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\bin\Debug\net5.0\ref\Enums1.dll
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\bin\Debug\net5.0\Enums1.pdb
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\Enums1.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\Enums1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\Enums1.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\Enums1.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\Enums1.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\Enums1.dll
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\ref\Enums1.dll
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\Enums1.pdb
+C:\Users\MandeepSingh\source\repos\Enums1\Enums1\obj\Debug\net5.0\Enums1.genruntimeconfig.cache

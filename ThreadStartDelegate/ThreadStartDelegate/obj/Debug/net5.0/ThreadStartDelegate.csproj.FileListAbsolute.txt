@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.exe
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.deps.json
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.dll
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\bin\Debug\net5.0\ref\ThreadStartDelegate.dll
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\bin\Debug\net5.0\ThreadStartDelegate.pdb
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.dll
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ref\ThreadStartDelegate.dll
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.pdb
+C:\Users\MandeepSingh\source\repos\ThreadStartDelegate\ThreadStartDelegate\obj\Debug\net5.0\ThreadStartDelegate.genruntimeconfig.cache

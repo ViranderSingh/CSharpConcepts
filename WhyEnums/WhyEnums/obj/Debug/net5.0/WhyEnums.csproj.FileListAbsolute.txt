@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\bin\Debug\net5.0\WhyEnums.exe
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\bin\Debug\net5.0\WhyEnums.deps.json
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\bin\Debug\net5.0\WhyEnums.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\bin\Debug\net5.0\WhyEnums.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\bin\Debug\net5.0\WhyEnums.dll
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\bin\Debug\net5.0\ref\WhyEnums.dll
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\bin\Debug\net5.0\WhyEnums.pdb
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\WhyEnums.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\WhyEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\WhyEnums.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\WhyEnums.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\WhyEnums.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\WhyEnums.dll
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\ref\WhyEnums.dll
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\WhyEnums.pdb
+C:\Users\MandeepSingh\source\repos\WhyEnums\WhyEnums\obj\Debug\net5.0\WhyEnums.genruntimeconfig.cache

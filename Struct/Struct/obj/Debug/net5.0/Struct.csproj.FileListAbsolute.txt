@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Struct\Struct\bin\Debug\net5.0\Struct.exe
+C:\Users\MandeepSingh\source\repos\Struct\Struct\bin\Debug\net5.0\Struct.deps.json
+C:\Users\MandeepSingh\source\repos\Struct\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Struct\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Struct\Struct\bin\Debug\net5.0\Struct.dll
+C:\Users\MandeepSingh\source\repos\Struct\Struct\bin\Debug\net5.0\ref\Struct.dll
+C:\Users\MandeepSingh\source\repos\Struct\Struct\bin\Debug\net5.0\Struct.pdb
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\Struct.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\Struct.dll
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\ref\Struct.dll
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\Struct.pdb
+C:\Users\MandeepSingh\source\repos\Struct\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache

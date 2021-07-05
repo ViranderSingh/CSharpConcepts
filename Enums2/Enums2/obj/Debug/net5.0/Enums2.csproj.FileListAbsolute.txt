@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\bin\Debug\net5.0\Enums2.exe
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\bin\Debug\net5.0\Enums2.deps.json
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\bin\Debug\net5.0\Enums2.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\bin\Debug\net5.0\Enums2.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\bin\Debug\net5.0\Enums2.dll
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\bin\Debug\net5.0\ref\Enums2.dll
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\bin\Debug\net5.0\Enums2.pdb
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\Enums2.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\Enums2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\Enums2.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\Enums2.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\Enums2.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\Enums2.dll
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\ref\Enums2.dll
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\Enums2.pdb
+C:\Users\MandeepSingh\source\repos\Enums2\Enums2\obj\Debug\net5.0\Enums2.genruntimeconfig.cache

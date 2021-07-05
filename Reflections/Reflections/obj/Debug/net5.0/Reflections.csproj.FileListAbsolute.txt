@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\bin\Debug\net5.0\Reflections.exe
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\bin\Debug\net5.0\Reflections.deps.json
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\bin\Debug\net5.0\Reflections.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\bin\Debug\net5.0\Reflections.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\bin\Debug\net5.0\Reflections.dll
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\bin\Debug\net5.0\ref\Reflections.dll
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\bin\Debug\net5.0\Reflections.pdb
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\Reflections.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\Reflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\Reflections.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\Reflections.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\Reflections.dll
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\ref\Reflections.dll
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\Reflections.pdb
+C:\Users\MandeepSingh\source\repos\Reflections\Reflections\obj\Debug\net5.0\Reflections.genruntimeconfig.cache

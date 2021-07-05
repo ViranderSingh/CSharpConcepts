@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\bin\Debug\net5.0\StringBuilderVsSystemString.exe
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\bin\Debug\net5.0\StringBuilderVsSystemString.deps.json
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\bin\Debug\net5.0\StringBuilderVsSystemString.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\bin\Debug\net5.0\StringBuilderVsSystemString.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\bin\Debug\net5.0\StringBuilderVsSystemString.dll
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\bin\Debug\net5.0\ref\StringBuilderVsSystemString.dll
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\bin\Debug\net5.0\StringBuilderVsSystemString.pdb
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\StringBuilderVsSystemString.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\StringBuilderVsSystemString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\StringBuilderVsSystemString.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\StringBuilderVsSystemString.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\StringBuilderVsSystemString.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\StringBuilderVsSystemString.dll
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\ref\StringBuilderVsSystemString.dll
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\StringBuilderVsSystemString.pdb
+C:\Users\MandeepSingh\source\repos\StringBuilderVsSystemString\StringBuilderVsSystemString\obj\Debug\net5.0\StringBuilderVsSystemString.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\bin\Debug\net5.0\CoffeeMachineUsingSwitch.exe
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\bin\Debug\net5.0\CoffeeMachineUsingSwitch.deps.json
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\bin\Debug\net5.0\CoffeeMachineUsingSwitch.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\bin\Debug\net5.0\CoffeeMachineUsingSwitch.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\bin\Debug\net5.0\CoffeeMachineUsingSwitch.dll
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\bin\Debug\net5.0\ref\CoffeeMachineUsingSwitch.dll
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\bin\Debug\net5.0\CoffeeMachineUsingSwitch.pdb
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\CoffeeMachineUsingSwitch.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\CoffeeMachineUsingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\CoffeeMachineUsingSwitch.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\CoffeeMachineUsingSwitch.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\CoffeeMachineUsingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\CoffeeMachineUsingSwitch.dll
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\ref\CoffeeMachineUsingSwitch.dll
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\CoffeeMachineUsingSwitch.pdb
+C:\Users\MandeepSingh\source\repos\CoffeeMachineUsingSwitch\CoffeeMachineUsingSwitch\obj\Debug\net5.0\CoffeeMachineUsingSwitch.genruntimeconfig.cache

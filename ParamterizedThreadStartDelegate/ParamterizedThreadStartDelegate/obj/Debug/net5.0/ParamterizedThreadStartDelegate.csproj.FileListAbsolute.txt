@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\bin\Debug\net5.0\ParamterizedThreadStartDelegate.exe
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\bin\Debug\net5.0\ParamterizedThreadStartDelegate.deps.json
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\bin\Debug\net5.0\ParamterizedThreadStartDelegate.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\bin\Debug\net5.0\ParamterizedThreadStartDelegate.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\bin\Debug\net5.0\ParamterizedThreadStartDelegate.dll
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\bin\Debug\net5.0\ref\ParamterizedThreadStartDelegate.dll
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\bin\Debug\net5.0\ParamterizedThreadStartDelegate.pdb
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ParamterizedThreadStartDelegate.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ParamterizedThreadStartDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ParamterizedThreadStartDelegate.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ParamterizedThreadStartDelegate.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ParamterizedThreadStartDelegate.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ParamterizedThreadStartDelegate.dll
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ref\ParamterizedThreadStartDelegate.dll
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ParamterizedThreadStartDelegate.pdb
+C:\Users\MandeepSingh\source\repos\ParamterizedThreadStartDelegate\ParamterizedThreadStartDelegate\obj\Debug\net5.0\ParamterizedThreadStartDelegate.genruntimeconfig.cache

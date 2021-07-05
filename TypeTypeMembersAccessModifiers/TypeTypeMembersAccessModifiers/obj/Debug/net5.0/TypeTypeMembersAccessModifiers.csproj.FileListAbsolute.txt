@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\bin\Debug\net5.0\TypeTypeMembersAccessModifiers.exe
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\bin\Debug\net5.0\TypeTypeMembersAccessModifiers.deps.json
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\bin\Debug\net5.0\TypeTypeMembersAccessModifiers.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\bin\Debug\net5.0\TypeTypeMembersAccessModifiers.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\bin\Debug\net5.0\TypeTypeMembersAccessModifiers.dll
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\bin\Debug\net5.0\ref\TypeTypeMembersAccessModifiers.dll
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\bin\Debug\net5.0\TypeTypeMembersAccessModifiers.pdb
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\TypeTypeMembersAccessModifiers.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\TypeTypeMembersAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\TypeTypeMembersAccessModifiers.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\TypeTypeMembersAccessModifiers.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\TypeTypeMembersAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\TypeTypeMembersAccessModifiers.dll
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\ref\TypeTypeMembersAccessModifiers.dll
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\TypeTypeMembersAccessModifiers.pdb
+C:\Users\MandeepSingh\source\repos\TypeTypeMembersAccessModifiers\TypeTypeMembersAccessModifiers\obj\Debug\net5.0\TypeTypeMembersAccessModifiers.genruntimeconfig.cache

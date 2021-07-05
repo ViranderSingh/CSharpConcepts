@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\bin\Debug\net5.0\ToStringVsConvertToString.exe
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\bin\Debug\net5.0\ToStringVsConvertToString.deps.json
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\bin\Debug\net5.0\ToStringVsConvertToString.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\bin\Debug\net5.0\ToStringVsConvertToString.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\bin\Debug\net5.0\ToStringVsConvertToString.dll
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\bin\Debug\net5.0\ref\ToStringVsConvertToString.dll
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\bin\Debug\net5.0\ToStringVsConvertToString.pdb
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ToStringVsConvertToString.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ToStringVsConvertToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ToStringVsConvertToString.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ToStringVsConvertToString.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ToStringVsConvertToString.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ToStringVsConvertToString.dll
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ref\ToStringVsConvertToString.dll
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ToStringVsConvertToString.pdb
+C:\Users\MandeepSingh\source\repos\ToStringVsConvertToString\ToStringVsConvertToString\obj\Debug\net5.0\ToStringVsConvertToString.genruntimeconfig.cache

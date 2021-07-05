@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\bin\Debug\net5.0\SortingComplexTypes.exe
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\bin\Debug\net5.0\SortingComplexTypes.deps.json
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\bin\Debug\net5.0\SortingComplexTypes.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\bin\Debug\net5.0\SortingComplexTypes.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\bin\Debug\net5.0\SortingComplexTypes.dll
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\bin\Debug\net5.0\ref\SortingComplexTypes.dll
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\bin\Debug\net5.0\SortingComplexTypes.pdb
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\SortingComplexTypes.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\SortingComplexTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\SortingComplexTypes.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\SortingComplexTypes.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\SortingComplexTypes.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\SortingComplexTypes.dll
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\ref\SortingComplexTypes.dll
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\SortingComplexTypes.pdb
+C:\Users\MandeepSingh\source\repos\SortingComplexTypes\SortingComplexTypes\obj\Debug\net5.0\SortingComplexTypes.genruntimeconfig.cache

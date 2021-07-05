@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\bin\Debug\net5.0\AbstractClassVsInterface.exe
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\bin\Debug\net5.0\AbstractClassVsInterface.deps.json
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\bin\Debug\net5.0\AbstractClassVsInterface.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\bin\Debug\net5.0\AbstractClassVsInterface.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\bin\Debug\net5.0\AbstractClassVsInterface.dll
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\bin\Debug\net5.0\ref\AbstractClassVsInterface.dll
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\bin\Debug\net5.0\AbstractClassVsInterface.pdb
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\AbstractClassVsInterface.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\AbstractClassVsInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\AbstractClassVsInterface.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\AbstractClassVsInterface.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\AbstractClassVsInterface.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\AbstractClassVsInterface.dll
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\ref\AbstractClassVsInterface.dll
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\AbstractClassVsInterface.pdb
+C:\Users\MandeepSingh\source\repos\AbstractClassVsInterface\AbstractClassVsInterface\obj\Debug\net5.0\AbstractClassVsInterface.genruntimeconfig.cache

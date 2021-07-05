@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\bin\Debug\net5.0\Attributes.exe
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\bin\Debug\net5.0\Attributes.deps.json
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\bin\Debug\net5.0\Attributes.dll
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\bin\Debug\net5.0\ref\Attributes.dll
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\bin\Debug\net5.0\Attributes.pdb
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\Attributes.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\Attributes.dll
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\ref\Attributes.dll
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\Attributes.pdb
+C:\Users\MandeepSingh\source\repos\Attributes\Attributes\obj\Debug\net5.0\Attributes.genruntimeconfig.cache

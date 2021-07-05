@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\bin\Debug\net5.0\ParseTryParse.exe
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\bin\Debug\net5.0\ParseTryParse.deps.json
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\bin\Debug\net5.0\ParseTryParse.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\bin\Debug\net5.0\ParseTryParse.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\bin\Debug\net5.0\ParseTryParse.dll
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\bin\Debug\net5.0\ref\ParseTryParse.dll
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\bin\Debug\net5.0\ParseTryParse.pdb
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ParseTryParse.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ParseTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ParseTryParse.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ParseTryParse.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ParseTryParse.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ParseTryParse.dll
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ref\ParseTryParse.dll
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ParseTryParse.pdb
+C:\Users\MandeepSingh\source\repos\ParseTryParse\ParseTryParse\obj\Debug\net5.0\ParseTryParse.genruntimeconfig.cache

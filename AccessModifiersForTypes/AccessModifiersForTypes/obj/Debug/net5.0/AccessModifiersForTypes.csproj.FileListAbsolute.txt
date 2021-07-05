@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\bin\Debug\net5.0\AccessModifiersForTypes.exe
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\bin\Debug\net5.0\AccessModifiersForTypes.deps.json
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\bin\Debug\net5.0\AccessModifiersForTypes.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\bin\Debug\net5.0\AccessModifiersForTypes.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\bin\Debug\net5.0\AccessModifiersForTypes.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\bin\Debug\net5.0\ref\AccessModifiersForTypes.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\bin\Debug\net5.0\AccessModifiersForTypes.pdb
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\AccessModifiersForTypes.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\AccessModifiersForTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\AccessModifiersForTypes.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\AccessModifiersForTypes.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\AccessModifiersForTypes.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\AccessModifiersForTypes.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\ref\AccessModifiersForTypes.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\AccessModifiersForTypes.pdb
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AccessModifiersForTypes\obj\Debug\net5.0\AccessModifiersForTypes.genruntimeconfig.cache

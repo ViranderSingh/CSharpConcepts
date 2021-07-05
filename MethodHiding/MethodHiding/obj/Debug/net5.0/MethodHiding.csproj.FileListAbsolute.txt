@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\bin\Debug\net5.0\MethodHiding.exe
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\bin\Debug\net5.0\MethodHiding.deps.json
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\bin\Debug\net5.0\MethodHiding.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\bin\Debug\net5.0\MethodHiding.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\bin\Debug\net5.0\MethodHiding.dll
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\bin\Debug\net5.0\ref\MethodHiding.dll
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\bin\Debug\net5.0\MethodHiding.pdb
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\MethodHiding.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\MethodHiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\MethodHiding.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\MethodHiding.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\MethodHiding.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\MethodHiding.dll
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\ref\MethodHiding.dll
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\MethodHiding.pdb
+C:\Users\MandeepSingh\source\repos\MethodHiding\MethodHiding\obj\Debug\net5.0\MethodHiding.genruntimeconfig.cache

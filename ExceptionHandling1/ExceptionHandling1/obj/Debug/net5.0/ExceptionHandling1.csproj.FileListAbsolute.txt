@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\bin\Debug\net5.0\ExceptionHandling1.exe
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\bin\Debug\net5.0\ExceptionHandling1.deps.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\bin\Debug\net5.0\ExceptionHandling1.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\bin\Debug\net5.0\ExceptionHandling1.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\bin\Debug\net5.0\ExceptionHandling1.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\bin\Debug\net5.0\ref\ExceptionHandling1.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\bin\Debug\net5.0\ExceptionHandling1.pdb
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ExceptionHandling1.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ExceptionHandling1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ExceptionHandling1.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ExceptionHandling1.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ExceptionHandling1.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ExceptionHandling1.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ref\ExceptionHandling1.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ExceptionHandling1.pdb
+C:\Users\MandeepSingh\source\repos\ExceptionHandling1\ExceptionHandling1\obj\Debug\net5.0\ExceptionHandling1.genruntimeconfig.cache

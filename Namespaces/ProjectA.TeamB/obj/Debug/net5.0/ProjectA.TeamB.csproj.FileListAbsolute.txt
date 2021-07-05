@@ -1,0 +1,12 @@
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\bin\Debug\net5.0\ProjectA.TeamB.deps.json
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\bin\Debug\net5.0\ProjectA.TeamB.dll
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\bin\Debug\net5.0\ref\ProjectA.TeamB.dll
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\bin\Debug\net5.0\ProjectA.TeamB.pdb
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\obj\Debug\net5.0\ProjectA.TeamB.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\obj\Debug\net5.0\ProjectA.TeamB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\obj\Debug\net5.0\ProjectA.TeamB.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\obj\Debug\net5.0\ProjectA.TeamB.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\obj\Debug\net5.0\ProjectA.TeamB.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\obj\Debug\net5.0\ProjectA.TeamB.dll
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\obj\Debug\net5.0\ref\ProjectA.TeamB.dll
+C:\Users\MandeepSingh\source\repos\Namespaces\ProjectA.TeamB\obj\Debug\net5.0\ProjectA.TeamB.pdb

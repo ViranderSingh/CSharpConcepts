@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClassStructDiff/1.0.0": {
+        "runtime": {
+          "ClassStructDiff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassStructDiff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

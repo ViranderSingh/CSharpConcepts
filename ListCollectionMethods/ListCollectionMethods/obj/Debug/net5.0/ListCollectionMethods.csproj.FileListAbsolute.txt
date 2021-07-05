@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\bin\Debug\net5.0\ListCollectionMethods.exe
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\bin\Debug\net5.0\ListCollectionMethods.deps.json
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\bin\Debug\net5.0\ListCollectionMethods.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\bin\Debug\net5.0\ListCollectionMethods.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\bin\Debug\net5.0\ListCollectionMethods.dll
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\bin\Debug\net5.0\ref\ListCollectionMethods.dll
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\bin\Debug\net5.0\ListCollectionMethods.pdb
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ListCollectionMethods.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ListCollectionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ListCollectionMethods.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ListCollectionMethods.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ListCollectionMethods.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ListCollectionMethods.dll
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ref\ListCollectionMethods.dll
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ListCollectionMethods.pdb
+C:\Users\MandeepSingh\source\repos\ListCollectionMethods\ListCollectionMethods\obj\Debug\net5.0\ListCollectionMethods.genruntimeconfig.cache

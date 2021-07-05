@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\bin\Debug\net5.0\ParentChildClassInheritance.exe
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\bin\Debug\net5.0\ParentChildClassInheritance.deps.json
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\bin\Debug\net5.0\ParentChildClassInheritance.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\bin\Debug\net5.0\ParentChildClassInheritance.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\bin\Debug\net5.0\ParentChildClassInheritance.dll
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\bin\Debug\net5.0\ref\ParentChildClassInheritance.dll
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\bin\Debug\net5.0\ParentChildClassInheritance.pdb
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ParentChildClassInheritance.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ParentChildClassInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ParentChildClassInheritance.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ParentChildClassInheritance.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ParentChildClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ParentChildClassInheritance.dll
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ref\ParentChildClassInheritance.dll
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ParentChildClassInheritance.pdb
+C:\Users\MandeepSingh\source\repos\ParentChildClassInheritance\ParentChildClassInheritance\obj\Debug\net5.0\ParentChildClassInheritance.genruntimeconfig.cache

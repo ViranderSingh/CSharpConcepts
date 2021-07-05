@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\net5.0\PropertiesInCSharp.exe
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\net5.0\PropertiesInCSharp.deps.json
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\net5.0\PropertiesInCSharp.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\net5.0\PropertiesInCSharp.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\net5.0\PropertiesInCSharp.dll
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\net5.0\ref\PropertiesInCSharp.dll
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\net5.0\PropertiesInCSharp.pdb
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\PropertiesInCSharp.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\PropertiesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\PropertiesInCSharp.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\PropertiesInCSharp.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\PropertiesInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\PropertiesInCSharp.dll
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\ref\PropertiesInCSharp.dll
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\PropertiesInCSharp.pdb
+C:\Users\MandeepSingh\source\repos\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\net5.0\PropertiesInCSharp.genruntimeconfig.cache

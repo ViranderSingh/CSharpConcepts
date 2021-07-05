@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.exe
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.deps.json
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.dll
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\bin\Debug\net5.0\ref\MulticastDelegate.dll
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.pdb
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.dll
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\ref\MulticastDelegate.dll
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.pdb
+C:\Users\MandeepSingh\source\repos\MulticastDelegate\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.genruntimeconfig.cache

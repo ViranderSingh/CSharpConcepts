@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\bin\Debug\net5.0\AccessModifiers2.exe
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\bin\Debug\net5.0\AccessModifiers2.deps.json
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\bin\Debug\net5.0\AccessModifiers2.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\bin\Debug\net5.0\AccessModifiers2.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\bin\Debug\net5.0\AccessModifiers2.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\bin\Debug\net5.0\ref\AccessModifiers2.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\bin\Debug\net5.0\AccessModifiers2.pdb
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\AccessModifiers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\AccessModifiers2.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\AccessModifiers2.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\AccessModifiers2.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\AccessModifiers2.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\ref\AccessModifiers2.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\AccessModifiers2.pdb
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\AccessModifiers2.genruntimeconfig.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiers2\AccessModifiers2\obj\Debug\net5.0\AccessModifiers2.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\bin\Debug\net5.0\ReadingWritingToConsole.exe
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\bin\Debug\net5.0\ReadingWritingToConsole.deps.json
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\bin\Debug\net5.0\ReadingWritingToConsole.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\bin\Debug\net5.0\ReadingWritingToConsole.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\bin\Debug\net5.0\ReadingWritingToConsole.dll
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\bin\Debug\net5.0\ref\ReadingWritingToConsole.dll
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\bin\Debug\net5.0\ReadingWritingToConsole.pdb
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ReadingWritingToConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ReadingWritingToConsole.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ReadingWritingToConsole.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ReadingWritingToConsole.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ReadingWritingToConsole.dll
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ref\ReadingWritingToConsole.dll
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ReadingWritingToConsole.pdb
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ReadingWritingToConsole.genruntimeconfig.cache
+C:\Users\MandeepSingh\source\repos\ReadingWritingToConsole\ReadingWritingToConsole\obj\Debug\net5.0\ReadingWritingToConsole.csprojAssemblyReference.cache

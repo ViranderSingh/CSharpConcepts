@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\bin\Debug\net5.0\Methods_3.exe
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\bin\Debug\net5.0\Methods_3.deps.json
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\bin\Debug\net5.0\Methods_3.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\bin\Debug\net5.0\Methods_3.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\bin\Debug\net5.0\Methods_3.dll
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\bin\Debug\net5.0\ref\Methods_3.dll
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\bin\Debug\net5.0\Methods_3.pdb
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\Methods_3.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\Methods_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\Methods_3.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\Methods_3.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\Methods_3.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\Methods_3.dll
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\ref\Methods_3.dll
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\Methods_3.pdb
+C:\Users\MandeepSingh\source\repos\Methods_3\Methods_3\obj\Debug\net5.0\Methods_3.genruntimeconfig.cache

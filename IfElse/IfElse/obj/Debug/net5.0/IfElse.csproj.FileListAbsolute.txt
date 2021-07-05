@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\bin\Debug\net5.0\IfElse.exe
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\bin\Debug\net5.0\IfElse.deps.json
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\bin\Debug\net5.0\IfElse.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\bin\Debug\net5.0\IfElse.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\bin\Debug\net5.0\IfElse.dll
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\bin\Debug\net5.0\ref\IfElse.dll
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\bin\Debug\net5.0\IfElse.pdb
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\IfElse.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\IfElse.dll
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\ref\IfElse.dll
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\IfElse.pdb
+C:\Users\MandeepSingh\source\repos\IfElse\IfElse\obj\Debug\net5.0\IfElse.genruntimeconfig.cache

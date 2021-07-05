@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\bin\Debug\net5.0\ImplicitExplicit.exe
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\bin\Debug\net5.0\ImplicitExplicit.deps.json
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\bin\Debug\net5.0\ImplicitExplicit.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\bin\Debug\net5.0\ImplicitExplicit.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\bin\Debug\net5.0\ImplicitExplicit.dll
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\bin\Debug\net5.0\ref\ImplicitExplicit.dll
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\bin\Debug\net5.0\ImplicitExplicit.pdb
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ImplicitExplicit.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ImplicitExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ImplicitExplicit.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ImplicitExplicit.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ImplicitExplicit.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ImplicitExplicit.dll
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ref\ImplicitExplicit.dll
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ImplicitExplicit.pdb
+C:\Users\MandeepSingh\source\repos\ImplicitExplicit\ImplicitExplicit\obj\Debug\net5.0\ImplicitExplicit.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\bin\Debug\net5.0\StackCollection.exe
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\bin\Debug\net5.0\StackCollection.deps.json
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\bin\Debug\net5.0\StackCollection.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\bin\Debug\net5.0\StackCollection.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\bin\Debug\net5.0\StackCollection.dll
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\bin\Debug\net5.0\ref\StackCollection.dll
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\bin\Debug\net5.0\StackCollection.pdb
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\StackCollection.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\StackCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\StackCollection.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\StackCollection.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\StackCollection.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\StackCollection.dll
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\ref\StackCollection.dll
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\StackCollection.pdb
+C:\Users\MandeepSingh\source\repos\StackCollection\StackCollection\obj\Debug\net5.0\StackCollection.genruntimeconfig.cache

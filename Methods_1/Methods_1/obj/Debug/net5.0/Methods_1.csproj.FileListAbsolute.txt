@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\bin\Debug\net5.0\Methods_1.exe
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\bin\Debug\net5.0\Methods_1.deps.json
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\bin\Debug\net5.0\Methods_1.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\bin\Debug\net5.0\Methods_1.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\bin\Debug\net5.0\Methods_1.dll
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\bin\Debug\net5.0\ref\Methods_1.dll
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\bin\Debug\net5.0\Methods_1.pdb
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\Methods_1.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\Methods_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\Methods_1.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\Methods_1.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\Methods_1.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\Methods_1.dll
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\ref\Methods_1.dll
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\Methods_1.pdb
+C:\Users\MandeepSingh\source\repos\Methods_1\Methods_1\obj\Debug\net5.0\Methods_1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ClassStructDiff.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ClassStructDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ClassStructDiff.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ClassStructDiff.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ClassStructDiff.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\bin\Debug\net5.0\ClassStructDiff.exe
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\bin\Debug\net5.0\ClassStructDiff.deps.json
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\bin\Debug\net5.0\ClassStructDiff.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\bin\Debug\net5.0\ClassStructDiff.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\bin\Debug\net5.0\ClassStructDiff.dll
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\bin\Debug\net5.0\ref\ClassStructDiff.dll
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\bin\Debug\net5.0\ClassStructDiff.pdb
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ClassStructDiff.dll
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ref\ClassStructDiff.dll
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ClassStructDiff.pdb
+C:\Users\MandeepSingh\source\repos\ClassStructDiff\ClassStructDiff\obj\Debug\net5.0\ClassStructDiff.genruntimeconfig.cache

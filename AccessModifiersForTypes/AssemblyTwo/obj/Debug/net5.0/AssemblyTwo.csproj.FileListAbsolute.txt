@@ -1,0 +1,15 @@
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\bin\Debug\net5.0\AssemblyTwo.deps.json
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\bin\Debug\net5.0\AssemblyTwo.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\bin\Debug\net5.0\ref\AssemblyTwo.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\bin\Debug\net5.0\AssemblyTwo.pdb
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\AssemblyTwo.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\AssemblyTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\AssemblyTwo.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\AssemblyTwo.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\AssemblyTwo.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\AssemblyTwo.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\ref\AssemblyTwo.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\AssemblyTwo.pdb
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\bin\Debug\net5.0\AssemblyOne.dll
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\bin\Debug\net5.0\AssemblyOne.pdb
+C:\Users\MandeepSingh\source\repos\AccessModifiersForTypes\AssemblyTwo\obj\Debug\net5.0\AssemblyTwo.csproj.CopyComplete

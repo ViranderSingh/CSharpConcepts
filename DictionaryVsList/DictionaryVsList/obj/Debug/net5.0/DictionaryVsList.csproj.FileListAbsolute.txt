@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.exe
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.deps.json
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.dll
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\bin\Debug\net5.0\ref\DictionaryVsList.dll
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.pdb
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.dll
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\ref\DictionaryVsList.dll
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.pdb
+C:\Users\MandeepSingh\source\repos\DictionaryVsList\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.genruntimeconfig.cache

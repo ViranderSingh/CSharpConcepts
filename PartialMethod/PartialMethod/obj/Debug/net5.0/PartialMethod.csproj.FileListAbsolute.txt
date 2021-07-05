@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\bin\Debug\net5.0\PartialMethod.exe
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\bin\Debug\net5.0\PartialMethod.deps.json
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\bin\Debug\net5.0\PartialMethod.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\bin\Debug\net5.0\PartialMethod.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\bin\Debug\net5.0\PartialMethod.dll
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\bin\Debug\net5.0\ref\PartialMethod.dll
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\bin\Debug\net5.0\PartialMethod.pdb
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\PartialMethod.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\PartialMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\PartialMethod.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\PartialMethod.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\PartialMethod.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\PartialMethod.dll
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\ref\PartialMethod.dll
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\PartialMethod.pdb
+C:\Users\MandeepSingh\source\repos\PartialMethod\PartialMethod\obj\Debug\net5.0\PartialMethod.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.exe.config
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.exe
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.pdb
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.Properties.Resources.resources
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.csproj.GenerateResource.cache
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.exe
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.pdb
+C:\Users\MandeepSingh\source\repos\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.Form1.resources

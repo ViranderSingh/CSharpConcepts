@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\bin\Debug\net5.0\EqualsMethod.exe
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\bin\Debug\net5.0\EqualsMethod.deps.json
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\bin\Debug\net5.0\EqualsMethod.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\bin\Debug\net5.0\EqualsMethod.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\bin\Debug\net5.0\EqualsMethod.dll
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\bin\Debug\net5.0\ref\EqualsMethod.dll
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\bin\Debug\net5.0\EqualsMethod.pdb
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\EqualsMethod.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\EqualsMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\EqualsMethod.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\EqualsMethod.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\EqualsMethod.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\EqualsMethod.dll
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\ref\EqualsMethod.dll
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\EqualsMethod.pdb
+C:\Users\MandeepSingh\source\repos\EqualsMethod\EqualsMethod\obj\Debug\net5.0\EqualsMethod.genruntimeconfig.cache

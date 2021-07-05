@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\bin\Debug\net5.0\CommonOperators.exe
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\bin\Debug\net5.0\CommonOperators.deps.json
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\bin\Debug\net5.0\CommonOperators.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\bin\Debug\net5.0\CommonOperators.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\bin\Debug\net5.0\CommonOperators.dll
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\bin\Debug\net5.0\ref\CommonOperators.dll
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\bin\Debug\net5.0\CommonOperators.pdb
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\CommonOperators.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\CommonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\CommonOperators.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\CommonOperators.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\CommonOperators.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\CommonOperators.dll
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\ref\CommonOperators.dll
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\CommonOperators.pdb
+C:\Users\MandeepSingh\source\repos\CommonOperators\CommonOperators\obj\Debug\net5.0\CommonOperators.genruntimeconfig.cache

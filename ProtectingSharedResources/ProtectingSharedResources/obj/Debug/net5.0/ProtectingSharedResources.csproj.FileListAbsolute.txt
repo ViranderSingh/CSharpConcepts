@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\bin\Debug\net5.0\ProtectingSharedResources.exe
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\bin\Debug\net5.0\ProtectingSharedResources.deps.json
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\bin\Debug\net5.0\ProtectingSharedResources.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\bin\Debug\net5.0\ProtectingSharedResources.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\bin\Debug\net5.0\ProtectingSharedResources.dll
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\bin\Debug\net5.0\ref\ProtectingSharedResources.dll
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\bin\Debug\net5.0\ProtectingSharedResources.pdb
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ProtectingSharedResources.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ProtectingSharedResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ProtectingSharedResources.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ProtectingSharedResources.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ProtectingSharedResources.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ProtectingSharedResources.dll
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ref\ProtectingSharedResources.dll
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ProtectingSharedResources.pdb
+C:\Users\MandeepSingh\source\repos\ProtectingSharedResources\ProtectingSharedResources\obj\Debug\net5.0\ProtectingSharedResources.genruntimeconfig.cache

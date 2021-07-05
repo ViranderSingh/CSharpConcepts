@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ExceptionHandlingAbuseSolved.csprojAssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ExceptionHandlingAbuseSolved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ExceptionHandlingAbuseSolved.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ExceptionHandlingAbuseSolved.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ExceptionHandlingAbuseSolved.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\bin\Debug\net5.0\ExceptionHandlingAbuseSolved.exe
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\bin\Debug\net5.0\ExceptionHandlingAbuseSolved.deps.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\bin\Debug\net5.0\ExceptionHandlingAbuseSolved.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\bin\Debug\net5.0\ExceptionHandlingAbuseSolved.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\bin\Debug\net5.0\ExceptionHandlingAbuseSolved.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\bin\Debug\net5.0\ref\ExceptionHandlingAbuseSolved.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\bin\Debug\net5.0\ExceptionHandlingAbuseSolved.pdb
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ExceptionHandlingAbuseSolved.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ref\ExceptionHandlingAbuseSolved.dll
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ExceptionHandlingAbuseSolved.pdb
+C:\Users\MandeepSingh\source\repos\ExceptionHandlingAbuseSolved\ExceptionHandlingAbuseSolved\obj\Debug\net5.0\ExceptionHandlingAbuseSolved.genruntimeconfig.cache

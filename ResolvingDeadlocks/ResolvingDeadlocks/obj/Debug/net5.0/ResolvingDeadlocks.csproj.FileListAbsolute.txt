@@ -1,0 +1,15 @@
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\bin\Debug\net5.0\ResolvingDeadlocks.exe
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\bin\Debug\net5.0\ResolvingDeadlocks.deps.json
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\bin\Debug\net5.0\ResolvingDeadlocks.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\bin\Debug\net5.0\ResolvingDeadlocks.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\bin\Debug\net5.0\ResolvingDeadlocks.dll
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\bin\Debug\net5.0\ref\ResolvingDeadlocks.dll
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\bin\Debug\net5.0\ResolvingDeadlocks.pdb
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\obj\Debug\net5.0\ResolvingDeadlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\obj\Debug\net5.0\ResolvingDeadlocks.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\obj\Debug\net5.0\ResolvingDeadlocks.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\obj\Debug\net5.0\ResolvingDeadlocks.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\obj\Debug\net5.0\ResolvingDeadlocks.dll
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\obj\Debug\net5.0\ref\ResolvingDeadlocks.dll
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\obj\Debug\net5.0\ResolvingDeadlocks.pdb
+C:\Users\MandeepSingh\source\repos\ResolvingDeadlocks\ResolvingDeadlocks\obj\Debug\net5.0\ResolvingDeadlocks.genruntimeconfig.cache

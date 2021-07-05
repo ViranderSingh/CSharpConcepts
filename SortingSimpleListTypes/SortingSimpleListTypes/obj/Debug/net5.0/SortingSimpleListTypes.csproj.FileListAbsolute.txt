@@ -1,0 +1,16 @@
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\bin\Debug\net5.0\SortingSimpleListTypes.exe
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\bin\Debug\net5.0\SortingSimpleListTypes.deps.json
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\bin\Debug\net5.0\SortingSimpleListTypes.runtimeconfig.json
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\bin\Debug\net5.0\SortingSimpleListTypes.runtimeconfig.dev.json
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\bin\Debug\net5.0\SortingSimpleListTypes.dll
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\bin\Debug\net5.0\ref\SortingSimpleListTypes.dll
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\bin\Debug\net5.0\SortingSimpleListTypes.pdb
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\SortingSimpleListTypes.csproj.AssemblyReference.cache
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\SortingSimpleListTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\SortingSimpleListTypes.AssemblyInfoInputs.cache
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\SortingSimpleListTypes.AssemblyInfo.cs
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\SortingSimpleListTypes.csproj.CoreCompileInputs.cache
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\SortingSimpleListTypes.dll
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\ref\SortingSimpleListTypes.dll
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\SortingSimpleListTypes.pdb
+C:\Users\MandeepSingh\source\repos\SortingSimpleListTypes\SortingSimpleListTypes\obj\Debug\net5.0\SortingSimpleListTypes.genruntimeconfig.cache
